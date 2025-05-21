@@ -1,3 +1,0 @@
-This is a sample essay.
-It contains multiple lines.
-It helps with file processing in Python.
